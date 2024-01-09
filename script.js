@@ -21,8 +21,12 @@ let car ={
 
  console.log(c == 7);
 
- let a = 3;
- let b = -6;
- 
- console.log(a == -6);
+ let b =6;
+
+ console.log(b>=0);
+
+let a =-6;
+
+console.log(a<=0);
+
 
