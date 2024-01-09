@@ -63,5 +63,11 @@ function sayHello(a,b){
 
 console.log(sayHello(12,34));
 
+let c = 7;
+let d = 6;
 
+ //console.log(c == 7);
+function helloJs(){
+    let result =
+}
 
